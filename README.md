@@ -1,5 +1,5 @@
 <h1 align="left">TodoList - A Time Management Tool</h1>
-&nbsp &nbsp <a href="https://stvz233.github.io/todo-list/" text-align="center">Click here to visit my todo list</a>
+&nbsp &nbsp <a href="https://stvz233.github.io/todo_list/" text-align="center">Click here to visit my todo list</a>
 <br>
 <br>
 <ul>
